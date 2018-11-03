@@ -1,0 +1,7 @@
+{
+  "name": "conklemov",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
